@@ -1,0 +1,22 @@
+---
+ID: 102
+post_title: 'CityCampMN January 11th &#8220;Unsad&#8221; Happy Hour &#8211; Theme &#8220;Nonprofits,&#8221; What&#8217;s Next Brainstorming Option'
+author: admin
+post_date: 2011-12-23 13:40:33
+post_excerpt: ""
+layout: post
+permalink: >
+  http://citycampmn.beneighbors.org/2011/12/citycampmn-january-11th-unsad-happy-hour-theme-nonprofits-whats-next-brainstorming-option/
+published: true
+dsq_thread_id:
+  - "513883841"
+---
+****<span style="font-size: xx-large;">CityCamp Minnesota 2012</span>**** *[CityCamp][1] is an international unconference series and online community focused on innovation for municipal governments and community organizations.* *On November 12 we held the [1st CityCamp in Minnesota][2]! * ***<span style="font-family: arial,sans-serif; font-size: medium;">On <a href="http://citycampmnjan112012.eventbrite.com/">Wednesday, January 11th</a>, the networking continues at <a href="http://republicmn.com/">The Republic in Seven Corners</a> </span>**<span style="font-family: arial,sans-serif; font-size: medium;"><strong>- </strong>the same location as our post- CityCampMN happy hour.</span>* **>> [RSVP HERE][3] <<** **<span style="color: #000000; font-family: arial,sans-serif; font-size: xx-small;"><span style="font-size: medium;">THIS EVENT IS FRE</span></span><span style="color: #000000; font-family: arial,sans-serif; font-size: xx-small;"><span style="font-size: medium;">E. </span></span>** <span style="font-family: arial,sans-serif; font-size: medium;">The theme for the first of our 2012 Quarterly Meetups is "Nonprofits."  MN is a hotbed of great nonprofits and we welcome these groups, their supporters, and the whole CityCamp community for a great time! </span> **<span style="font-family: arial,sans-serif; font-size: medium;">4 p.m. CityCamp 2012 Brainstorm - Optional</span>** <span style="font-family: arial,sans-serif; font-size: medium;">Join volunteer Bud Fisher with Advocate Interactive to shape what's next for CityCamp in 2012!  </span>Topics include upcoming themes, speakers, code-a-thons, and whatever else is important to the group! **<span style="font-family: arial,sans-serif; font-size: medium;">5 p.m. Networking Unsad Hour</span>** <span style="font-family: arial,sans-serif; font-size: medium;">After the brainstorm we'll open up for networking and conversation. Expect to meet great people from government, startups, nonprofits, citizen groups and more! </span>([The Republic's][4] awesome Happy Hour specials run until 6 p.m.) **<span style="font-family: arial,sans-serif; font-size: medium;">6 p.m. Fire Drill Presentations</span>** <span style="font-family: arial,sans-serif; font-size: medium;">If we get 50 registrants - although let's try for 75 - we'll take votes for three attendee-chosen topics prior to networking.  Our three notable speakers will whip up some great content during networking, then give short presentations on the topics...this should be exciting!</span> <span style="font-family: arial,sans-serif; font-size: medium;"><strong><em>Let's make this a great start to the year - let's all invite five of our contacts to join the collaboration for a lively event!</em></strong></span> **<span style="color: #000000; font-family: arial,sans-serif; font-size: xx-small;"><span style="font-size: medium;">After You Register</span></span>** 
+*   <span style="color: #000000; font-family: arial,sans-serif; font-size: xx-small;"><span style="font-size: medium;"><a href="http://codeforamerica.org/brigade/">Check out the Code for America "Brigade" idea</a> to connect civic hackers city by city. It is being led by CityCamp, co-founder Kevin Curry. Sign-up now and let's get some civic coding going.</span></span>
+*   <span style="color: #000000; font-family: arial,sans-serif; font-size: xx-small;"><span style="font-size: medium;">After you register here, consider joining the global ongoing online <a href="http://e-democracy.org/citycamp">CityCamp Exchange</a> to connect with those going to similar events in San Francisco, London, and beyond. </span></span>
+*   <span style="color: #000000; font-family: arial,sans-serif; font-size: xx-small;"><span style="font-size: medium;">Join the <a href="http://forums.e-democracy.org/groups/citycampmn">CityCampMN online working group</a> to help with this collaborative network.</span></span>
+
+ [1]: http://citycamp.com
+ [2]: http://citycampmn.org
+ [3]: http://citycampmnjan112012.eventbrite.com/
+ [4]: http://republicmn.com/
